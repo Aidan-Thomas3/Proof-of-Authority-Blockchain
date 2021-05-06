@@ -94,7 +94,7 @@ Here is a snip for reference
 - in the *To Address* box paste the account addrress from Node 2, and fill an arbitrary amount of ETH (I chose 333,333). then *Send Transaction*
 
 Here is a snip for reference
-![](/Screenshotes/8_Send_to_Node_2.PNG)
+![](/Screenshotes/8_Send_Node_2.PNG)
 
 - on the left hand side of the MyCrypto app hit the *TX Status* tab and confirm the logout.
 - you can see if the transaction was successful or not
