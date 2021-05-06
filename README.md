@@ -91,10 +91,10 @@ Here is a snip for reference
 - select the *View & Send* tab on the left then at the bottom of the screen select the *Keystore File*.
 - on this screen click on Select Wallet File and navigate to the to your Node 1 directory selecting the UTC file which is located there.
 - you will be prompted to enter your password and click unlock.
-- in the *To Address* box paste the account addrress from NOde 2, and fill an arbitrary amount of ETH (I chose 333,333). then *Send Transaction*
+- in the *To Address* box paste the account addrress from Node 2, and fill an arbitrary amount of ETH (I chose 333,333). then *Send Transaction*
 
 Here is a snip for reference
-![](/Screenshots/8_Sending_to_Node_2.PNG)
+![](/Screenshots/8_Sending _to_Node_2.PNG)
 
 - on the left hand side of the MyCrypto app hit the *TX Status* tab and confirm the logout.
 - you can see if the transaction was successful or not
